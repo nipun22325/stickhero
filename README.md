@@ -1,6 +1,6 @@
 # stick-hero
 This project is for CSE-201 Advanced Programming Monsoon Semester 2023.
-Made by Nipun Kothari(2022325) and Paras Kakran(2022349).
+Made by Nipun Kothari(2022325) and Paras Kakran(2022349) (Group-145 Sec-B).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO RUN CODE:
